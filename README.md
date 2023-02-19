@@ -22,7 +22,7 @@ This is highly hepful when one wants to read lot of research papers or blogs.
 
 
 ### 2) Analyzing the review's and extracting the sentiment of those reviews on a scale of 1-5.
-Here we scrap a webiste (say UberEats, yelp, Amazon) for the reviews. Pass these reviews to a language model like BERT to analyse the text/reviews and give us a sentiment score of 1-5.
+Here we scrap a webiste (say UberEats, yelp, Amazon) for the reviews. Pass these reviews to a language model like BERT to analyse the text/reviews and give us a sentiment score of 1-5. BERT api is taken from Hugging face library.
 
 #### How to use this (at the moment):
 * Clone/Download the BERT Sentiment Analyser ipynb file/py file locally. 
